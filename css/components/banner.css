@@ -1,0 +1,20 @@
+.banner {
+	background-image: url('../../images/réfugiés.jpeg');
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center ;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 1;
+	margin-bottom: 50px;
+}

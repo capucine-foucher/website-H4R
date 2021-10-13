@@ -1,0 +1,31 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif");
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Noto', serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: Roboto, sans-serif;
+	font-weight: bold ;
+	font-size: 50px;
+
+}
+
+a {
+	text-decoration: none;
+	
+}
+#logo {
+	width: 100px;
+	height: 100px;
+
+	justify-items: center;
+}
